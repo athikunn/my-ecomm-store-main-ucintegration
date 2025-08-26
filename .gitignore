@@ -94,6 +94,6 @@ application-local.properties
 application-dev.properties
 application-prod.properties
 
-# Explicitly ignore target folder without exceptions
-/target/
-target/
+# # Explicitly ignore target folder without exceptions
+# /target/
+# target/
